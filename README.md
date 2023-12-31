@@ -2,7 +2,7 @@
  
 Figma Design File : https://www.figma.com/file/483RoxD5IIirsVxdbO1g4C/Chat-App?type=design&node-id=0%3A1&mode=design&t=BzgH2s7lD15Cj9T1-1
 
-All the design in frontend is fully implemented using React.
+All the design given in figma is implemented and is fully developed using React.
 
 For backend we have used Node and MongoDB
 
